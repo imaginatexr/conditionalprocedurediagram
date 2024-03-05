@@ -13,7 +13,7 @@ Above command will create dist folder in root director of project , please use d
 Optinal
 if we are getting eroro which are related to css loader then execute below command 
 
-**npm install css-loader --save **
+**npm install css-loader --save**
 
 **npm install style-loader --save**
 
