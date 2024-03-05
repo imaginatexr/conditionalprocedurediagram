@@ -10,16 +10,22 @@ Above command will create dist folder in root director of project , please use d
 
 Optinal
 if we are getting eroro which are related to css loader then execute below command 
-**npm install css-loader --save 
 
-npm install style-loader --save
+****npm install css-loader --save 
+**
 
-npm install --save diagram-js-minimap**
+**npm install style-loader --save
+**
 
+**npm install --save diagram-js-minimap**
+**
 if we need to install bpmn-js file then execute below commad
+
 **npm install --save bpmn-js
 **
-Ui flow
+
+**Ui flow
+**
 There are two option in ui landing page 
 1.Create New Flow chart diagram from bpmn-js library
 2.Open existing BPMN diagram from bpmn-js library
