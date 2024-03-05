@@ -1,5 +1,6 @@
 Need to download code or clone in local device
 First we need to execute command
+
 **npm install
 **
 Then need to execute command ng server -o for accessing page
