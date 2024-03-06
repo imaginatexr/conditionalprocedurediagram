@@ -1,3 +1,10 @@
+Software need to install on local machine
+Node js- https://nodejs.org/en/download
+Then install angular cli
+npm install -g @angular/cli  
+https://angular.io/guide/setup-local
+
+
 Need to download code or clone in local device
 First we need to execute command
 
