@@ -3,7 +3,7 @@ First we need to execute command
 
 **npm install**
 
-Then need to execute command **ng server -o** for accessing page
+Then need to execute command **ng serve -o** for accessing page
 if we need to deploy code on iis server then execute below command
 
 **ng build --configuration production**
