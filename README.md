@@ -10,8 +10,9 @@ if we need to deploy code on iis server then execute below command
 
 Above command will create dist folder in root director of project , please use dist folder content to deploy on server.
 
-Optinal
-if we are getting eroro which are related to css loader then execute below command 
+**Optinal**
+
+if we are getting error which are related to css loader then execute below command 
 
 **npm install css-loader --save**
 
